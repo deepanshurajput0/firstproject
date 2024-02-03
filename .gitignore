@@ -1,1 +1,3 @@
 node_modules
+
+/client/kambucha-client/node_modules
